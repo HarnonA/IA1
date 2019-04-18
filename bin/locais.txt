@@ -1,0 +1,21 @@
+Maikai x boate x Maceio-AL x praia x noite x solteiro x 100 x 3 x 
+Maikai Choparia x bar x Maceio-AL x praia x noite x casal x 60 x 2 x 
+LeHotel x boate x Maceio-AL x praia x noite x solteiro x 110 x 3 x 
+QG Farol x bar x Maceio-AL x cidade x noite x solteiro x 50 x 2 x 
+Kanoa x bar x Maceio-AL x praia x tarde-noite x solteiro x 70 x 3 x 
+Lopana x bar x Maceio-AL x praia x tarde-noite x solteiro x 76 x 4 x 
+Alagoana x bar x Maceio-AL x praia x tarde-noite x solteiro x 82 x 4 x 
+Botequim Paulista x bar x Maceio-AL x praia x 24h x solteiro x 55 x 6 x 
+Pizzaria Nicole x restaurante x Maceio-AL x cidade x noite x solteiro/casal x 50 x 4 x 
+Pizzaria Piratas do Picui x restaurante x Maceio-AL x cidade x noite x solteiro/casal x 60 x 4 x 
+Confraria do Rei x bar x Maceio-AL x cidade x noite x solteiro x 60 x 2 x 
+Pousada Porto De Piranhas x hotel x Piranhas-AL x turistico x 24h x solteiro/casal x 120 x 8 x 
+Pousada O Imperado x hotel x Piranhas-AL x turistico x 24h x solteiro/casal x 170 x 1 x 
+Catamara Velho Chico 1 x passeio x Piranhas-AL x turistico x dia x solteiro/casal x 25 x 3 x 
+Catamara Velho Chico 2 x passeio x Piranhas-AL x turistico x dia x solteiro/casal x 40 x 3 x 
+Trilha do Cangaco x passeio x Piranhas-AL x educativo x dia x solteiro/casal x 10 x 3 x 
+Piscina Natural x passeio x Maragogi-AL x praia x dia x solteiro/casal x 30 x 5 x 
+Salinas do Maragogi x hotel x Maragogi-AL x praia x 24h x casal x 200 x 1 x 
+Hotel Areias Belas x hotel x Maragogi-AL x praia x 24h x casal x 240 x 1 x 
+Planetario e Casa da Ciência x museu x Arapiraca-AL x educativo x noite x solteiro/casal x 15 x 4 x 
+Hotel Sol Nascente x hotel x Arapiraca-AL x cidade x 24h x solteiro/casal x 120 x 1 x 
